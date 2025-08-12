@@ -59,7 +59,7 @@ cd Contact-App
 
 If you like this project, **give it a star** ⭐ on GitHub — it helps!
 
-[![GitHub stars](https://img.shields.io/github/stars/AYAN-IMRAN/Contact-App?style=social)](https://github.com/AYAN-IMRAN/Contact-App)
+[![GitHub stars](https://img.shields.io/github/stars/AYAN-IMRAN/Contact-App-Manager?style=social)](https://github.com/AYAN-IMRAN/Contact-App-Manager)
 
 ---
 
